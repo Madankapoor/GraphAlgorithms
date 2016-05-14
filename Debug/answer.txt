@@ -1,0 +1,11 @@
+Solution to Coursea programming assignment for dijkatra's algorithm
+2599
+2610
+2947
+2052
+2367
+2399
+2029
+2442
+2505
+3068
